@@ -1,0 +1,15 @@
+Hi Im Ismail,
+Today I will show you how to use GBFP.
+First open an emulator to run Python.(If you are using Linux, use Pycharm.)
+(If you're on Windows, I can recommend Sublime Text or Python's own emulator.)
+Second, Copy and Paste the Code into the Emulator.
+Enter your own email address in the myMailAdress variable.
+Likewise, enter your password in the password variable.
+Third and finally,
+Enclose the things you want to write in the Subject and Message values.
+(for example: subject="love"
+message = "I love you so much <3")
+Do not touch the content variable and other codes, the program will run without problems.
+Thank You.
+Ismail Efe Erdoğdu
+instagram : byk1lla.py
